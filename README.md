@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Powerstar4 Clearing & Forwarding Agent — Website
 
 A modern, animated, single-page website for **Powerstar4 Trading CC**, a customs
@@ -70,3 +71,7 @@ extension (Right-click `index.html` → *Open with Live Server*).
 
 - **Powerstar4 Trading CC** — Shop 18, Pelican Mall, Walvis Bay · P.O. Box 1883, Walvis Bay, Namibia
 - powerstarfourtradingcc2026@gmail.com
+=======
+# powerstar4-website
+Website development project for powerstar4
+>>>>>>> d963558ca569464ad500888fab971279da11cebe
